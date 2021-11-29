@@ -1,0 +1,17 @@
+{
+  "name": "zcc",
+  "version": "1.0.0",
+  "description": "Submission for the Zendesk Coding challenge",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Atharva Biwalkar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "expressjs/express",
+    "axios": "^0.24.0",
+    "mocha": "^9.1.3",
+    "prompt-sync": "^4.1.6"
+  }
+}
