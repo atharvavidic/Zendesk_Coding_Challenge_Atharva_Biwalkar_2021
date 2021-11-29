@@ -4,7 +4,7 @@ This is the submission for the Zendesk Coding Challenge 2021 by Atharva Biwalkar
 This is a CLI based application, developed using Node.js that GETS the tickets from the Zendesk API,
 and then parses it in the terminal.
 
-![Screenshot](Screen Shot 2021-11-28 at 7.14.04 PM.png)
+![Screenshot](ss.png)
 
 Please follow the given steps in order to run the Project:
 
